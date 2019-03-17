@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.e1595ccd.chunk.css",
-  "main.js": "/static/js/main.60d652a5.chunk.js",
-  "main.js.map": "/static/js/main.60d652a5.chunk.js.map",
-  "static/js/1.f8255dfc.chunk.js": "/static/js/1.f8255dfc.chunk.js",
-  "static/js/1.f8255dfc.chunk.js.map": "/static/js/1.f8255dfc.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/css/main.e1595ccd.chunk.css.map": "/static/css/main.e1595ccd.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.ae336f711d2053170cb1666849ad3dbb.js": "/precache-manifest.ae336f711d2053170cb1666849ad3dbb.js",
-  "service-worker.js": "/service-worker.js"
+  "main.css": "/gemini-v2/static/css/main.e1595ccd.chunk.css",
+  "main.js": "/gemini-v2/static/js/main.60d652a5.chunk.js",
+  "main.js.map": "/gemini-v2/static/js/main.60d652a5.chunk.js.map",
+  "static/js/1.f8255dfc.chunk.js": "/gemini-v2/static/js/1.f8255dfc.chunk.js",
+  "static/js/1.f8255dfc.chunk.js.map": "/gemini-v2/static/js/1.f8255dfc.chunk.js.map",
+  "runtime~main.js": "/gemini-v2/static/js/runtime~main.b556565b.js",
+  "runtime~main.js.map": "/gemini-v2/static/js/runtime~main.b556565b.js.map",
+  "static/css/main.e1595ccd.chunk.css.map": "/gemini-v2/static/css/main.e1595ccd.chunk.css.map",
+  "index.html": "/gemini-v2/index.html",
+  "precache-manifest.aa2ecdbbb413c2f613551e2c7fe648e0.js": "/gemini-v2/precache-manifest.aa2ecdbbb413c2f613551e2c7fe648e0.js",
+  "service-worker.js": "/gemini-v2/service-worker.js"
 }
